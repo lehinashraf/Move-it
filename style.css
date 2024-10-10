@@ -1,0 +1,9 @@
+.btn-clicked {
+    background-color: yellow;
+    transition: background-color 0.3s ease;
+}
+#postcodeError {
+    margin-top: 5px;
+    font-size: 0.9rem;
+    color: red;
+}
